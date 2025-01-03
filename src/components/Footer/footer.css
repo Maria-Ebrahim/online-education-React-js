@@ -1,0 +1,36 @@
+.footer{
+    background: rgba(226,248,248,0.664);
+}
+
+.follows span a{
+    text-decoration: none;
+
+}
+.follows span{
+    margin-left: 15px;
+}
+
+
+.link__list .link__item{
+    background:transparent;
+
+}
+
+.link__list a{
+    text-decoration: none;
+    color:#0a2b1e;
+    font-weight: 500;
+}
+.link__list a:hover{
+    color: #e80101;
+}
+.copyright__text span{
+    color: #e80101;
+    font-weight: 600;
+}
+
+.copyright__text{
+
+padding-left: 350px;
+/* padding-top: 50px; */
+}
